@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[digitalapplied.com](https://www.digitalapplied.com/blog/gemini-3-5-flash-computer-use-agent-automation-2026)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[pcmag.com](https://www.pcmag.com/news/gemini-spark-is-now-available-on-macos-heres-everything-the-ai-agent-can-do)",
+    "[bgr.com](https://www.bgr.com/tech/your-google-gemini-data-is-being-used-for-a-lot-more-than-just-sending-you-ads/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)"
+  ],
+  "design_plan": "rng=42; hero_math=maxw1120,2.5lines; AIDA=pass; grid_dense=verified; labels=clean; contrast=AA+",
+  "generated_at": "2026-07-03T02:06:02.453457+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "A fair, source-backed comparison of Super and Google Gemini for people choosing a personal AI agent. Gemini is pushing native computer use with Gemini 3.5 Flash and Gemini Spark, but it remains a preview-first, platform-centric ecosystem. Super is built for individuals and teams who want durable, repeatable computer-use workflows that get cheaper over time through a reusable computer-use cache."
+}
